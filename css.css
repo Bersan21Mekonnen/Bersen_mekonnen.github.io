@@ -63,7 +63,7 @@
 .body{
     background-color: #020512;
     color: rgb(255, 255, 255);
-    font-family: cursive;
+    font-family: "Inter", sans-serif;
 }
 
       .nav-link.selected {
